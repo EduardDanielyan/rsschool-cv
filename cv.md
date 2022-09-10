@@ -48,4 +48,15 @@ function fizzbuzz(n)
 }
 ~~~
 ***
+## Work experience:
+_Nothing yet ..._
 
+***
+## Education and courses:
+* JS fullstack web development
+
+***
+## Language:
+* Armenian - native
+* Russian - advanced
+* English level - B1+ (B2 in process)
